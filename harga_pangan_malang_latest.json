@@ -1,0 +1,177 @@
+{
+  "last_updated": "2026-05-15 05:15:52",
+  "status": "success",
+  "message": "Data terbaru diambil dari scraper_ai dan disimpan ke JSON",
+  "source": "BI.go.id",
+  "record_count": 21,
+  "data": [
+    {
+      "komoditas": "Bawang Merah Ukuran Sedang",
+      "harga": 46800,
+      "satuan": "per kg",
+      "lokasi": "Nasional (referensi Malang)",
+      "tanggal": "2026-05-14",
+      "sumber": "BI.go.id"
+    },
+    {
+      "komoditas": "Bawang Putih Ukuran Sedang",
+      "harga": 39650,
+      "satuan": "per kg",
+      "lokasi": "Nasional (referensi Malang)",
+      "tanggal": "2026-05-14",
+      "sumber": "BI.go.id"
+    },
+    {
+      "komoditas": "Beras Kualitas Bawah I",
+      "harga": 14300,
+      "satuan": "per kg",
+      "lokasi": "Nasional (referensi Malang)",
+      "tanggal": "2026-05-14",
+      "sumber": "BI.go.id"
+    },
+    {
+      "komoditas": "Beras Kualitas Bawah II",
+      "harga": 14600,
+      "satuan": "per kg",
+      "lokasi": "Nasional (referensi Malang)",
+      "tanggal": "2026-05-14",
+      "sumber": "BI.go.id"
+    },
+    {
+      "komoditas": "Beras Kualitas Medium I",
+      "harga": 15800,
+      "satuan": "per kg",
+      "lokasi": "Nasional (referensi Malang)",
+      "tanggal": "2026-05-14",
+      "sumber": "BI.go.id"
+    },
+    {
+      "komoditas": "Beras Kualitas Medium II",
+      "harga": 15500,
+      "satuan": "per kg",
+      "lokasi": "Nasional (referensi Malang)",
+      "tanggal": "2026-05-14",
+      "sumber": "BI.go.id"
+    },
+    {
+      "komoditas": "Beras Kualitas Super I",
+      "harga": 16950,
+      "satuan": "per kg",
+      "lokasi": "Nasional (referensi Malang)",
+      "tanggal": "2026-05-14",
+      "sumber": "BI.go.id"
+    },
+    {
+      "komoditas": "Beras Kualitas Super II",
+      "harga": 16450,
+      "satuan": "per kg",
+      "lokasi": "Nasional (referensi Malang)",
+      "tanggal": "2026-05-14",
+      "sumber": "BI.go.id"
+    },
+    {
+      "komoditas": "Cabai Merah Besar",
+      "harga": 54050,
+      "satuan": "per kg",
+      "lokasi": "Nasional (referensi Malang)",
+      "tanggal": "2026-05-14",
+      "sumber": "BI.go.id"
+    },
+    {
+      "komoditas": "Cabai Merah Keriting",
+      "harga": 50100,
+      "satuan": "per kg",
+      "lokasi": "Nasional (referensi Malang)",
+      "tanggal": "2026-05-14",
+      "sumber": "BI.go.id"
+    },
+    {
+      "komoditas": "Cabai Rawit Hijau",
+      "harga": 45850,
+      "satuan": "per kg",
+      "lokasi": "Nasional (referensi Malang)",
+      "tanggal": "2026-05-14",
+      "sumber": "BI.go.id"
+    },
+    {
+      "komoditas": "Cabai Rawit Merah",
+      "harga": 70800,
+      "satuan": "per kg",
+      "lokasi": "Nasional (referensi Malang)",
+      "tanggal": "2026-05-14",
+      "sumber": "BI.go.id"
+    },
+    {
+      "komoditas": "Daging Ayam Ras Segar",
+      "harga": 41150,
+      "satuan": "per kg",
+      "lokasi": "Nasional (referensi Malang)",
+      "tanggal": "2026-05-14",
+      "sumber": "BI.go.id"
+    },
+    {
+      "komoditas": "Daging Sapi Kualitas 1",
+      "harga": 144600,
+      "satuan": "per kg",
+      "lokasi": "Nasional (referensi Malang)",
+      "tanggal": "2026-05-14",
+      "sumber": "BI.go.id"
+    },
+    {
+      "komoditas": "Daging Sapi Kualitas 2",
+      "harga": 136950,
+      "satuan": "per kg",
+      "lokasi": "Nasional (referensi Malang)",
+      "tanggal": "2026-05-14",
+      "sumber": "BI.go.id"
+    },
+    {
+      "komoditas": "Gula Pasir Kualitas Premium",
+      "harga": 20050,
+      "satuan": "per kg",
+      "lokasi": "Nasional (referensi Malang)",
+      "tanggal": "2026-05-14",
+      "sumber": "BI.go.id"
+    },
+    {
+      "komoditas": "Gula Pasir Lokal",
+      "harga": 19100,
+      "satuan": "per kg",
+      "lokasi": "Nasional (referensi Malang)",
+      "tanggal": "2026-05-14",
+      "sumber": "BI.go.id"
+    },
+    {
+      "komoditas": "Minyak Goreng Curah",
+      "harga": 20800,
+      "satuan": "per kg",
+      "lokasi": "Nasional (referensi Malang)",
+      "tanggal": "2026-05-14",
+      "sumber": "BI.go.id"
+    },
+    {
+      "komoditas": "Minyak Goreng Kemasan Bermerk 1",
+      "harga": 24200,
+      "satuan": "per kg",
+      "lokasi": "Nasional (referensi Malang)",
+      "tanggal": "2026-05-14",
+      "sumber": "BI.go.id"
+    },
+    {
+      "komoditas": "Minyak Goreng Kemasan Bermerk 2",
+      "harga": 23000,
+      "satuan": "per kg",
+      "lokasi": "Nasional (referensi Malang)",
+      "tanggal": "2026-05-14",
+      "sumber": "BI.go.id"
+    },
+    {
+      "komoditas": "Telur Ayam Ras Segar",
+      "harga": 30750,
+      "satuan": "per kg",
+      "lokasi": "Nasional (referensi Malang)",
+      "tanggal": "2026-05-14",
+      "sumber": "BI.go.id"
+    }
+  ]
+}
