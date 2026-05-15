@@ -1,0 +1,170 @@
+[
+  {
+    "komoditas": "Beras Kualitas Bawah I",
+    "harga": 14000,
+    "satuan": "per kg",
+    "lokasi": "Kota Malang",
+    "tanggal": "2026-05-13",
+    "sumber": "BI.go.id"
+  },
+  {
+    "komoditas": "Beras Kualitas Bawah II",
+    "harga": 13050,
+    "satuan": "per kg",
+    "lokasi": "Kota Malang",
+    "tanggal": "2026-05-13",
+    "sumber": "BI.go.id"
+  },
+  {
+    "komoditas": "Beras Kualitas Medium I",
+    "harga": 15350,
+    "satuan": "per kg",
+    "lokasi": "Kota Malang",
+    "tanggal": "2026-05-13",
+    "sumber": "BI.go.id"
+  },
+  {
+    "komoditas": "Beras Kualitas Medium II",
+    "harga": 15100,
+    "satuan": "per kg",
+    "lokasi": "Kota Malang",
+    "tanggal": "2026-05-13",
+    "sumber": "BI.go.id"
+  },
+  {
+    "komoditas": "Beras Kualitas Super I",
+    "harga": 16000,
+    "satuan": "per kg",
+    "lokasi": "Kota Malang",
+    "tanggal": "2026-05-13",
+    "sumber": "BI.go.id"
+  },
+  {
+    "komoditas": "Beras Kualitas Super II",
+    "harga": 15750,
+    "satuan": "per kg",
+    "lokasi": "Kota Malang",
+    "tanggal": "2026-05-13",
+    "sumber": "BI.go.id"
+  },
+  {
+    "komoditas": "Daging Ayam Ras Segar",
+    "harga": 35250,
+    "satuan": "per kg",
+    "lokasi": "Kota Malang",
+    "tanggal": "2026-05-13",
+    "sumber": "BI.go.id"
+  },
+  {
+    "komoditas": "Daging Sapi Kualitas 1",
+    "harga": 142500,
+    "satuan": "per kg",
+    "lokasi": "Kota Malang",
+    "tanggal": "2026-05-13",
+    "sumber": "BI.go.id"
+  },
+  {
+    "komoditas": "Daging Sapi Kualitas 2",
+    "harga": 135000,
+    "satuan": "per kg",
+    "lokasi": "Kota Malang",
+    "tanggal": "2026-05-13",
+    "sumber": "BI.go.id"
+  },
+  {
+    "komoditas": "Telur Ayam Ras Segar",
+    "harga": 25000,
+    "satuan": "per kg",
+    "lokasi": "Kota Malang",
+    "tanggal": "2026-05-13",
+    "sumber": "BI.go.id"
+  },
+  {
+    "komoditas": "Bawang Merah Ukuran Sedang",
+    "harga": 48750,
+    "satuan": "per kg",
+    "lokasi": "Kota Malang",
+    "tanggal": "2026-05-13",
+    "sumber": "BI.go.id"
+  },
+  {
+    "komoditas": "Bawang Putih Ukuran Sedang",
+    "harga": 30500,
+    "satuan": "per kg",
+    "lokasi": "Kota Malang",
+    "tanggal": "2026-05-13",
+    "sumber": "BI.go.id"
+  },
+  {
+    "komoditas": "Cabai Merah Besar",
+    "harga": 55000,
+    "satuan": "per kg",
+    "lokasi": "Kota Malang",
+    "tanggal": "2026-05-13",
+    "sumber": "BI.go.id"
+  },
+  {
+    "komoditas": "Cabai Merah Keriting",
+    "harga": 50000,
+    "satuan": "per kg",
+    "lokasi": "Kota Malang",
+    "tanggal": "2026-05-13",
+    "sumber": "BI.go.id"
+  },
+  {
+    "komoditas": "Cabai Rawit Hijau",
+    "harga": 48250,
+    "satuan": "per kg",
+    "lokasi": "Kota Malang",
+    "tanggal": "2026-05-13",
+    "sumber": "BI.go.id"
+  },
+  {
+    "komoditas": "Cabai Rawit Merah",
+    "harga": 61250,
+    "satuan": "per kg",
+    "lokasi": "Kota Malang",
+    "tanggal": "2026-05-13",
+    "sumber": "BI.go.id"
+  },
+  {
+    "komoditas": "Minyak Goreng Curah",
+    "harga": 22500,
+    "satuan": "per kg",
+    "lokasi": "Kota Malang",
+    "tanggal": "2026-05-13",
+    "sumber": "BI.go.id"
+  },
+  {
+    "komoditas": "Minyak Goreng Kemasan Bermerk 1",
+    "harga": 22500,
+    "satuan": "per kg",
+    "lokasi": "Kota Malang",
+    "tanggal": "2026-05-13",
+    "sumber": "BI.go.id"
+  },
+  {
+    "komoditas": "Minyak Goreng Kemasan Bermerk 2",
+    "harga": 22000,
+    "satuan": "per kg",
+    "lokasi": "Kota Malang",
+    "tanggal": "2026-05-13",
+    "sumber": "BI.go.id"
+  },
+  {
+    "komoditas": "Gula Pasir Kualitas Premium",
+    "harga": 18000,
+    "satuan": "per kg",
+    "lokasi": "Kota Malang",
+    "tanggal": "2026-05-13",
+    "sumber": "BI.go.id"
+  },
+  {
+    "komoditas": "Gula Pasir Lokal",
+    "harga": 17000,
+    "satuan": "per kg",
+    "lokasi": "Kota Malang",
+    "tanggal": "2026-05-13",
+    "sumber": "BI.go.id"
+  }
+]
