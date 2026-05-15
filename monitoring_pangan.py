@@ -68,9 +68,10 @@ def load_data():
         if not raw_data:
             raise ValueError('Scraper mengembalikan data kosong')
 
+        current_date = datetime.now().strftime('%Y-%m-%d')
         for item in raw_data:
-            item.setdefault('sumber', 'BI.go.id')
-            item.setdefault('tanggal', datetime.now().strftime('%Y-%m-%d'))
+            item['sumber'] = 'BI.go.id'
+            item.setdefault('tanggal', current_date)
 
         df = pd.DataFrame(raw_data)
         metadata = {
