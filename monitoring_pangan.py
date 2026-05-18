@@ -76,11 +76,11 @@ def load_data():
         df = pd.DataFrame(raw_data)
         metadata = {
             'last_updated': current_timestamp(),
-            'status': 'success',
+            #'status': 'success',
             #'message': 'Data terbaru diambil dari scraper_ai dan disimpan ke JSON',
             'source': 'BI.go.id'
         }
-        save_status_json(df.to_dict(orient='records'), status=metadata['status'], message=metadata['message'], source=metadata['source'])
+        save_status_json(df.to_dict(orient='records'), source=metadata['source']) #status=metadata['status'], message=metadata['message'],
         return df, metadata
 
     except Exception as e:
