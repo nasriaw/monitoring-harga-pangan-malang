@@ -77,7 +77,7 @@ def load_data():
         metadata = {
             'last_updated': current_timestamp(),
             'status': 'success',
-            'message': 'Data terbaru diambil dari scraper_ai dan disimpan ke JSON',
+            #'message': 'Data terbaru diambil dari scraper_ai dan disimpan ke JSON',
             'source': 'BI.go.id'
         }
         save_status_json(df.to_dict(orient='records'), status=metadata['status'], message=metadata['message'], source=metadata['source'])
