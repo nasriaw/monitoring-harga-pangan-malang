@@ -77,10 +77,10 @@ def load_data():
         metadata = {
             'last_updated': current_timestamp(),
             'status': 'success',
-            'message': 'Data terbaru diambil dari Sumber', #scraper_ai dan disimpan ke JSON',
+            'message': 'Data terbaru diambil dari scraper_ai dan disimpan ke JSON',
             'source': 'BI.go.id'
         }
-        save_status_json(df.to_dict(orient='records'), status=metadata['status'], message=metadata['message'], source=metadata['source']) #
+        save_status_json(df.to_dict(orient='records'), status=metadata['status'], message=metadata['message'], source=metadata['source'])
         return df, metadata
 
     except Exception as e:
@@ -222,39 +222,11 @@ with col1:
             delta="per kg"
         )
 
-        st.subheader("📈 Tren Harga (7 Hari Terakhir)")
-
-        dates = pd.date_range(end=datetime.now(), periods=7)
-        prices_trend = [price + (i - 3) * 500 for i in range(7)]
-
-        trend_df = pd.DataFrame({
-            'Tanggal': dates,
-            'Harga': prices_trend
-        })
-
-        fig = px.line(
-            trend_df,
-            x='Tanggal',
-            y='Harga',
-            title=f'Tren Harga {selected_commodity}',
-            markers=True
-        )
-        fig.update_yaxes(tickformat=',.0f', title='Harga (Rp)')
-        fig.update_xaxes(title='Tanggal')
-        st.plotly_chart(fig, use_container_width=True)
+        # Tren Harga 7 Hari dihapus sesuai permintaan
     else:
         st.error("Data tidak ditemukan untuk komoditas ini")
 
-with col2:
-    st.subheader("📊 Ringkasan Harga")
-
-    for idx, row in df.iterrows():
-        with st.container():
-            emoji = get_commodity_emoji(row['komoditas'])
-            if row['komoditas'] == selected_commodity:
-                st.success(f"{emoji} {row['komoditas'][:20]}...: {format_rupiah(row['harga'])}")
-            else:
-                st.info(f"{emoji} {row['komoditas'][:20]}...: {format_rupiah(row['harga'])}")
+# Ringkasan Harga dan kartu dihapus sesuai permintaan pengguna.
 
 # Footer
 st.markdown("---")
@@ -289,7 +261,7 @@ styled_df = styled_df.rename(columns={
 
 st.dataframe(
     styled_df,
-    use_container_width=True,
+    width='stretch',
     column_config={
         "Komoditas": st.column_config.TextColumn("Komoditas", width="medium"),
         "Harga": st.column_config.TextColumn("Harga", width="small"),
