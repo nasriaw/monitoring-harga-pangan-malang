@@ -155,6 +155,8 @@ st.title("📊 MONITORING REALTIME HARGA KOMODITAS PANGAN DI MALANG")
 st.markdown("---")
 
 # Sidebar
+st.sidebar.image("logo_MONITOR_HARGA_PANGAN.png", use_column_width=True)
+st.sidebar.markdown("---")
 st.sidebar.title("🎛️ Menu Navigasi")
 st.sidebar.markdown("---")
 
